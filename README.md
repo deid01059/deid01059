@@ -7,11 +7,9 @@
    <br/>
   <strong>👋 제 깃 허브에 오신걸 환영합니다 👋</strong>
   <br/>
-  <br/>
    <br/>
    <strong>📧 이메일</strong>
    <br/>
-
  deid01059@gmail.com  
   <br/>
      <br/>
