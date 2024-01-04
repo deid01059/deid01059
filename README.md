@@ -23,6 +23,8 @@
 Git : (https://github.com/0817php-404NFT/todolist) 
            <br/>
 URL : (http://112.222.157.156:6024) 
+             <br/>
+PPT : (https://github.com/deid01059/2308_php/tree/main/1_project_file) 
    <br/>
   담당 : 팀원
     <br/>
@@ -40,6 +42,8 @@ URL : (http://112.222.157.156:6024)
 Git : (https://github.com/quintrillion/team5)
          <br/>
 URL : (http://112.222.157.156:6005/main) 
+                   <br/>
+PPT : (https://github.com/deid01059/2308_php/tree/main/2_project_file) 
      <br/>
   포지션 : 팀원
       <br/>
