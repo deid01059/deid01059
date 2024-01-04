@@ -20,7 +20,9 @@
     <br/>
     <strong> 🚀 [1차 프로젝트]</strong>
    <br/>
-(https://github.com/0817php-404NFT/todolist) 
+Git : (https://github.com/0817php-404NFT/todolist) 
+           <br/>
+URL : (http://112.222.157.156:6024) 
    <br/>
   담당 : 팀원
     <br/>
@@ -35,7 +37,9 @@
     <br/>
     <strong> 🚀 [2차 프로젝트]</strong>
    <br/>
-(https://github.com/quintrillion/team5)
+Git : (https://github.com/quintrillion/team5)
+         <br/>
+URL : (http://112.222.157.156:6005/main) 
      <br/>
   포지션 : 팀원
       <br/>
