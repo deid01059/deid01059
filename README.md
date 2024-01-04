@@ -21,11 +21,38 @@
     <strong> 🚀 [1차 프로젝트]</strong>
    <br/>
 (https://github.com/0817php-404NFT/todolist) 
+   <br/>
+  담당 : 팀원
+    <br/>
+    <담당페이지>
+    <br/>
+   - 리스트페이지
+     <br/>
+  - 검색페이지
+     <br/>
+   - 통계페이지
   <br/>
     <br/>
     <strong> 🚀 [2차 프로젝트]</strong>
    <br/>
 (https://github.com/quintrillion/team5)
+     <br/>
+  포지션 : 팀원
+      <br/>
+  <담당페이지>
+     <br/>
+   - 로그인페이지
+     <br/>
+  - 인증페이지
+     <br/>
+   - 회원가입페이지
+  <br/>
+   - 유저페이지(공동작업) : 기능 담당
+  <br/>
+   - 지역페이지(검색기능, 날짜 계산기능)
+  <br/>
+   - 에러페이지
+  <br/>
   <br/>
    <br/>
    <br/>
