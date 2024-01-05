@@ -32,9 +32,11 @@ PPT : (https://github.com/deid01059/2308_php/tree/main/1_project_file)
     <br/>
    - 리스트페이지
      <br/>
-  - 검색페이지
+  - 기간검색페이지
      <br/>
    - 통계페이지
+           <br/>
+   - 단어검색페이지(공동작업) : 기능담당
   <br/>
     <br/>
     <strong> 🚀 [2차 프로젝트]</strong>
@@ -54,8 +56,6 @@ PPT : (https://github.com/deid01059/2308_php/tree/main/2_project_file)
   - 인증페이지
      <br/>
    - 회원가입페이지
-     <br/>
-   - 검색페이지(공동작업)
   <br/>
    - 유저페이지(공동작업) : 기능 담당
   <br/>
