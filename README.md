@@ -22,7 +22,7 @@
    <br/>
 Git : (https://github.com/0817php-404NFT/todolist) 
            <br/>
-URL : (http://112.222.157.156:6024) 
+URL : (http://112.222.157.156:6024/todolist/src/main.php) 
              <br/>
 PPT : (https://github.com/deid01059/2308_php/tree/main/1_project_file) 
    <br/>
