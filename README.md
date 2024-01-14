@@ -18,7 +18,7 @@
 (https://blog.naver.com/deid01059) 
  <br/>
     <br/>
-    <strong> 🚀 [1차 프로젝트]</strong>
+    <strong> 🚀 [1차 프로젝트](pure php를 이용한 절차지향)</strong>
    <br/>
 Git : (https://github.com/0817php-404NFT/todolist) 
            <br/>
@@ -39,7 +39,7 @@ PPT : (https://github.com/deid01059/2308_php/tree/main/1_project_file)
    - 단어검색페이지(공동작업) : 기능담당
   <br/>
     <br/>
-    <strong> 🚀 [2차 프로젝트]</strong>
+    <strong> 🚀 [2차 프로젝트](laravel+vue.js)mvc패턴을 기반으로한 웹앱</strong>
    <br/>
 Git : (https://github.com/quintrillion/team5)
          <br/>
