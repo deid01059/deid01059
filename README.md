@@ -82,9 +82,9 @@ PPT : (https://github.com/deid01059/2308_php/tree/main/3_project_file)
      <br/>
     관리자페이지용 테스트계정
   <br/>
-    <ID : test@test.com>   
+    [ID : test@test.com]   
       <br/>
-      <PW : zxc123!!>
+      [PW : zxc123!!]
     <br/>
   - 유저페이지(좋아요목록,작성목록 추가)
      <br/>
