@@ -66,7 +66,7 @@ PPT : (https://github.com/deid01059/2308_php/tree/main/2_project_file)
   <br/>
    <br/>
    <br/>
-        <strong> 🚀 [3차 프로젝트](laravel+vue.js)mvc패턴을 기반으로한 웹앱</strong>
+        <strong> 🚀 [3차 프로젝트](laravel+vue.js)2차 프로젝트 연장</strong>
    <br/>
 Git : (https://github.com/quintrillion/team5)
          <br/>
@@ -88,6 +88,8 @@ PPT : (https://github.com/deid01059/2308_php/tree/main/3_project_file)
      <br/>
    - 지역페이지(검색태그목록 추가)
   <br/>
+           - 카카오로그인 추가
+     <br/>
   <br/>
    <br/>
    <br/>
