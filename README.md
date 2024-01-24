@@ -66,6 +66,31 @@ PPT : (https://github.com/deid01059/2308_php/tree/main/2_project_file)
   <br/>
    <br/>
    <br/>
+        <strong> 🚀 [3차 프로젝트](laravel+vue.js)mvc패턴을 기반으로한 웹앱</strong>
+   <br/>
+Git : (https://github.com/quintrillion/team5)
+         <br/>
+URL : (http://112.222.157.156:6005/main) 
+                   <br/>
+PPT : (https://github.com/deid01059/2308_php/tree/main/3_project_file) 
+     <br/>
+  포지션 : 팀원
+      <br/>
+  <담당페이지>
+     <br/>
+   - 관리자페이지
+     <br/>
+    관리자페이지용 테스트계정
+  <br/>
+    id : test@test.com   pw : zxc123!!
+    <br/>
+  - 유저페이지(좋아요목록,작성목록 추가)
+     <br/>
+   - 지역페이지(검색태그목록 추가)
+  <br/>
+  <br/>
+   <br/>
+   <br/>
 <strong>🛠️ MySkill</strong>
   <br/>
    <br/>
