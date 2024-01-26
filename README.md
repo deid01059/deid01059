@@ -101,7 +101,7 @@ PPT : (https://github.com/deid01059/2308_php/tree/main/3_project_file)
   <img src="https://img.shields.io/badge/PHP-4479A1?style=for-the-badge&logo=PHP&logoColor=#777BB4">
    <img src="https://img.shields.io/badge/Laravel-3776AB?style=for-the-badge&logo=Laravel&logoColor=#FF2D20">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-   <img src="https://img.shields.io/badge/vuedotjs-3776AB?style=for-the-badge&logo=vuedotjs&logoColor=#4FC08D">
+   <img src="https://img.shields.io/badge/vue.js-3776AB?style=for-the-badge&logo=vuedotjs&logoColor=#4FC08D">
    <img src="https://img.shields.io/badge/mariadb-007ACC?style=for-the-badge&logo=mariadb&logoColor=#003545">
    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge">
   <br>
