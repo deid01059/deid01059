@@ -61,7 +61,7 @@ PPT : (https://github.com/deid01059/2308_php/tree/main/2_project_file)
   <br/>
    - 지역페이지(검색기능, 날짜 계산기능)
   <br/>
-           - 상세 페이지
+  - 디테일페이지
   <br/>
    - 에러페이지
   <br/>
